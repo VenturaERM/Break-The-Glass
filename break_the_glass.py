@@ -13,7 +13,7 @@ import os, sys
 
 #global variables
 TODAY = dt.datetime.now() + dt.timedelta(days=1) #today
-DELTA = 5 # retroactive events DELTA DAYS
+DELTA = 90 # retroactive events DELTA DAYS
 BASE_PATH = os.path.dirname(os.path.abspath(__file__)) #get the path of the file
 ACCOUNT_ID = [] #account id
 REGIONS = [] #list of regions
