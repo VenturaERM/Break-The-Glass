@@ -19,14 +19,15 @@ To use VENTURA ERM, follow these steps:
 
 Configure your AWS CLI environment with your credentials and desired region.
 
-Run the script: python breaktheglass.py
+Run the script: python [Break-The-Glass.py](https://github.com/VenturaERM/Break-The-Glass/blob/main/break_the_glass.py)
 
 CloudTrail files will be automatically downloaded, compressed, and their integrity verified.
 
 ## Contributions
 Contributions are welcome! To contribute:
 
-## Fork the repository.
+Fork the repository.
+
 Create a feature branch: git checkout -b my-new-feature
 
 Make your changes and commit: git commit -am 'Add some feature'
@@ -36,8 +37,8 @@ Push to the branch: git push origin my-new-feature
 Submit a pull request.
 
 ## License
-This project is licensed under MIT LICENSE. 
+This project is licensed under [MIT](https://github.com/VenturaERM/Break-The-Glass/blob/main/LICENSE). 
 See the LICENSE file for more details.
 
 ## Contact
-For contact, please send an email to contato@venturaerm.com
+For contact, please send an email to [contato@venturaerm.com](https://venturaerm.com/contact_us).
